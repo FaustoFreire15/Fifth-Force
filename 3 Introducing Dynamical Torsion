@@ -2,7 +2,7 @@
 In the Einstein–Cartan–Sciama–Kibble (ECSK) framework, torsion arises algebraically from spin density. However, this formulation severely limits its physical relevance: torsion cannot propagate, cannot exist in a vacuum, and lacks a true field equation. These constraints render torsion a mere localized response, not an independent field—unlike electromagnetism or gravity.
 In my approach, I reinterpret torsion as the first spacetime projection of Πώ—a pre-geometric field that precedes all geometric structures. Torsion is no longer a passive consequence of spin but becomes a dynamic entity in its own right. To elevate spin to the status of a fundamental interaction—a fifth force—we must endow torsion with dynamics, much as Maxwell endowed electromagnetism with its own field equations.
 3.2    Modifying the Action
-To this end, I propose an extended action that includes a kinetic term for torsion, analogous to Yang–Mills theory:
+To this end, I propose an extended action that includes a kinetic term for torsion, analogous to Yang–Mills theory: (equation 1)
 
 Where:
     •  is the Ricci scalar constructed from the full affine connection (which includes torsion),
@@ -10,10 +10,10 @@ Where:
     • An optional mass term  can be included to account for short-range behavior.
 This formulation allows torsion to propagate even in the absence of matter, turning it into a dynamical field analogous to gauge bosons.
         3.3    Field Equations from Variation
-Variation of the action with respect to the metric  yields the modified Einstein field equations:
+Variation of the action with respect to the metric  yields the modified Einstein field equations: (equation 2)
 
 where  represents the stress-energy contribution from the torsion field.
-Variation with respect to the torsion tensor  produces a genuine torsion wave equation:
+Variation with respect to the torsion tensor  produces a genuine torsion wave equation: (equation 3)
 
 This result parallels the Proca equation for a massive vector field and opens the door for torsion waves in vacuum—a fundamental departure from classical ECSK theory.
         3.4    Visual Conceptual Flow Diagram
