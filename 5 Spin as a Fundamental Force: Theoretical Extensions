@@ -1,0 +1,20 @@
+        5.1    Modifying Einstein’s Field Equations
+In standard General Relativity, Einstein’s field equations relate the curvature of spacetime directly to the energy–momentum tensor of matter:
+
+This formulation completely omits spin. Even in Einstein–Cartan–Sciama–Kibble (ECSK) theory, where torsion is included, it only responds passively to spin—never acting as an independent field. I propose something fundamentally different: spin should be viewed not merely as a quantum descriptor but as a dynamic agent—one that originates from Πώ and actively contributes to both torsion and curvature.
+To reflect this, I introduce a new tensor , which captures curvature generated directly by spin:
+
+Here, λ is a coupling constant, and  is derived from the spin-torsion dynamics:
+
+Just as mass-energy curves spacetime, spin—via its induced torsion—now gains the same causal stature.
+        5.2    Modified Dirac Equation: Coupling to the Spin Field
+The standard Dirac equation in curved spacetime is:
+
+To accommodate the dynamic spin field, I propose this modification:
+
+Here,  is a spin field analogous to the gauge potential  in electromagnetism, and the term  introduces an axial-vector interaction.
+
+Implications:
+    • Spinors now interact directly with the spin field, potentially altering their behavior in high-density regimes.
+    • Observable shifts could emerge in neutron stars, early universe cosmology, or precision lab experiments.
+    • Spin, via torsion, might influence spacetime even in the absence of conventional matter—producing curvature from quantum spin alone.
