@@ -1,16 +1,16 @@
-     
+qu     
         4.1    Contorsion, Torsion, and the Affine Connection
-In the Einstein–Cartan theory, the full affine connection  includes torsion and therefore deviates from the symmetric Levi-Civita connection . This deviation is captured by the contorsion tensor , defined by:
+In the Einstein–Cartan theory, the full affine connection  includes torsion and therefore deviates from the symmetric Levi-Civita connection . This deviation is captured by the contorsion tensor , defined by: (equation 4)
 
-The contorsion tensor itself relates to the torsion tensor TμνλT^\lambda_{\mu\nu} through:
+The contorsion tensor itself relates to the torsion tensor TμνλT^\lambda_{\mu\nu} through: (equation 5)
 
-Torsion is antisymmetric in its lower indices:
+Torsion is antisymmetric in its lower indices: (equation 6)
 
         4.2    From Action to Torsion Field Equation
 This is where the geometry becomes dynamic. By introducing a Lagrangian with a kinetic term for torsion, I allow torsion to propagate and behave as a genuine field, rather than a constraint imposed by matter spin.
-The torsion-spin interaction term for spinor fields is:
+The torsion-spin interaction term for spinor fields is: (equation 7)
 
-Varying the full action with respect to the torsion field yields the torsion wave equation:
+Varying the full action with respect to the torsion field yields the torsion wave equation: 
 
 Here:
     •  is the axial projection of the torsion tensor,
